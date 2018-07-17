@@ -36,7 +36,7 @@ suffix = ['apple-john', 'baggage', 'barnacle', 'bladder', 'boar-pig', 'bugbear',
           'minnow', 'miscreant', 'moldwarp', 'mumble-news', 'nut-hook', 'pigeon-egg',
           'pignut', 'puttok', 'pumpion', 'ratsbane', 'scut', 'skainsmate', 'strumpet',
           'varlot', 'vassal', 'whey-face', 'wagtail', 'knave', 'blind-worm', 'popinjay',
-          'scullian', 'jolt-head', 'malcontent', 'devil-monk', 'toad', 'rascal', 'knave'
+          'scullian', 'jolt-head', 'malcontent', 'devil-monk', 'toad', 'rascal', 
           'basket-cockle', 'tooth-hole', 'strumpet', 'ninnycock', 'polecat', 'cucumber',
           'tarse', 'wittol', 'rascal', 'bull-head', 'reprobate']
           
